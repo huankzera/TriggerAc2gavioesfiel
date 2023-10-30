@@ -11,11 +11,12 @@ DataPedido datetime,
 NomeCliente varchar(100)
 );
 
-insert into Pedido (DataPedido, NomeCliente) values ('2003-05-18', 'Jullia');
-insert into Pedido (DataPedido, NomeCliente) values ('2009-04-23', 'Raffael');
-insert into Pedido (DataPedido, NomeCliente) values ('2007-02-23', 'Guilherme');
+insert into Pedido (DataPedido, NomeCliente) values ('2005-09-18', 'Matheus');
+insert into Pedido (DataPedido, NomeCliente) values ('2002-03-13', 'Julio');
+insert into Pedido (DataPedido, NomeCliente) values ('2007-02-13', 'Henrique');
 ```
-![image](https://github.com/WanderleiJullia/Trigger./assets/144744092/73118235-2252-481e-a438-0675341002a3)
+![image](https://github.com/huankzera/TriggerAc2gavioesfiel/assets/126423433/1fceb437-ffb4-4909-a83f-2da2cd794b3d)
+
 
 ## 2º EXECUTE AS ETAPAS E VERIFIQUE SEUS RESULTADOS; 
 ```SQL
@@ -35,7 +36,7 @@ insert into Pedido (NomeCliente) values ('Maria');
 
 select * FROM PEDIDO; 
 ```
-![image](https://github.com/WanderleiJullia/Trigger./assets/144744092/40511b70-30f8-470d-b8c3-0374926f1f17)
+
 
 ## Observação: A utilização do trigger para a tabela citada no exemplo, serve para acrecentar mais um Cliente, sem alteração na sua tabela inicial, fazendo com que coloque apensas o nome como informação do cliente. 
 
