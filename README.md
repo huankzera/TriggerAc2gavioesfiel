@@ -98,7 +98,8 @@ end$
 
 delimiter ;
 ```
-![image](https://github.com/WanderleiJullia/Trigger./assets/144744092/20dbdce9-a5c2-4347-9ed8-ae3d7e33f430)
+![image](https://github.com/huankzera/TriggerAc2gavioesfiel/assets/126423433/15059820-cfc4-4f67-b821-cb420f345496)
+
 
 ## 3º Inserir Log_deletions 
 ```SQL
