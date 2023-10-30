@@ -76,7 +76,8 @@ insert into Filmes (titulo, minutos) values ('O labirinto do fauno', 110);
 insert into Filmes (titulo, minutos) values ('Metropole', 0);
 insert into Filmes (titulo, minutos) values ('A lista', 120);
 ```
-![Captura de tela 2023-10-23 211657](https://github.com/WanderleiJullia/Trigger./assets/144744092/2189cf6a-9f30-4f38-8337-c8e86270a6c1)
+![image](https://github.com/huankzera/TriggerAc2gavioesfiel/assets/126423433/cd6780c7-f456-4d3d-bba4-3b5d3b4ae2f8)
+
 
 
 ## 2º Incluir Chk_Minutos; 
