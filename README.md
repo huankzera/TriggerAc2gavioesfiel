@@ -124,7 +124,8 @@ delete from Filmes where id = 4;
 
 select * from log_deletion;
 ```
-![Filmes Log ](https://github.com/WanderleiJullia/Trigger./assets/144744092/fa96b0f5-b6ac-405b-8902-68136a35955a)
+![image](https://github.com/huankzera/TriggerAc2gavioesfiel/assets/126423433/ebeb873d-63d2-4d2f-9bee-8d8bb23f41de)
+
 
 
 
